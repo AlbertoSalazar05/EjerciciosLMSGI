@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cocteleria SYSTEM "cocteleria.dtd">
+<cocteleria>
+    <coctel id="a">
+        <nombre>Mojito</nombre>
+        <tipo>Clásico</tipo>
+        <ingredientes>
+            <ingrediente>Lima</ingrediente>
+            <ingrediente>Menta</ingrediente>
+            <ingrediente>Azúcar</ingrediente>
+        </ingredientes>
+        <precio>7</precio>
+    </coctel>
+    <coctel id="b">
+        <nombre>Daquiri</nombre>
+        <tipo>Clásico</tipo>
+        <ingredientes>
+            <ingrediente>Lima</ingrediente>
+            <ingrediente>Ron</ingrediente>
+            <ingrediente>Azúcar</ingrediente>
+        </ingredientes>
+        <precio>8</precio>
+    </coctel>
+</cocteleria>

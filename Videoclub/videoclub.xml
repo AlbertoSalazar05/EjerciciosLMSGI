@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE videoclub SYSTEM "videoclub.dtd">
+<videoclub>
+    <pelicula id="a">
+        <titulo>Torrente 5</titulo>
+        <genero>Acción</genero>
+        <director>Santiago Segura</director>
+        <anio>2014</anio>
+        <precio>10</precio>
+    </pelicula>
+    <pelicula id="b">
+        <titulo>Fast And Furious 10</titulo>
+        <genero>Carreras</genero>
+        <director>Louis Leterrier</director>
+        <anio>2023</anio>
+        <precio>8</precio>
+    </pelicula>
+    <pelicula id="c">
+        <titulo>Oppenheimemr</titulo>
+        <genero>Historia/Drama</genero>
+        <director>Christopher Nolan</director>
+        <anio>2023</anio>
+        <precio>14</precio>
+    </pelicula>
+</videoclub>

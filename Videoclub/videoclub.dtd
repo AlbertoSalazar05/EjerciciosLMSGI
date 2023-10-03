@@ -1,0 +1,8 @@
+<!ELEMENT videoclub (pelicula+)>
+<!ELEMENT pelicula (titulo, genero, director, anio, precio)>
+<!ATTLIST pelicula id ID #REQUIRED>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT anio (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>

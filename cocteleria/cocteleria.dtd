@@ -1,0 +1,13 @@
+<!ELEMENT cocteleria (coctel+)>
+<!ELEMENT coctel (nombre, tipo, ingredientes, precio)>
+<!ATTLIST coctel id ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT ingredientes (ingrediente+, (opcion1 | opcion2)?)>
+<!ELEMENT ingrediente (#PCDATA)>
+<!ELEMENT opcion1 (#PCDATA)>
+<!ELEMENT opcion2 (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ATTLIST elemento atributo (valor1 | valor2 | valor3) #REQUIRED>
+
+    
