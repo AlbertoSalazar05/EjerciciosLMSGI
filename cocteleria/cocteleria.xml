@@ -21,4 +21,14 @@
         </ingredientes>
         <precio>8</precio>
     </coctel>
+    <coctel id="c">
+        <nombre>Americano</nombre>
+        <tipo>Clásico</tipo>
+        <ingredientes>
+            <ingrediente>Campari</ingrediente>
+            <ingrediente>Ron</ingrediente>
+            <ingrediente>Vermouth Rojo</ingrediente>
+        </ingredientes>
+        <precio>6</precio>
+    </coctel>
 </cocteleria>
